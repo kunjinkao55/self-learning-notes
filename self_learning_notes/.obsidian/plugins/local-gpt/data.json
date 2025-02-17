@@ -1,0 +1,81 @@
+{
+  "providers": {
+    "ollama": {
+      "url": "http://localhost:11434",
+      "defaultModel": "deepseek-r1:32b",
+      "embeddingModel": "deepseek-r1:32b",
+      "type": "ollama"
+    },
+    "ollama_fallback": {
+      "url": "http://localhost:11434",
+      "defaultModel": "gemma2",
+      "embeddingModel": "",
+      "type": "ollama"
+    },
+    "openaiCompatible": {
+      "url": "http://localhost:8080/v1",
+      "apiKey": "",
+      "embeddingModel": "",
+      "type": "openaiCompatible"
+    },
+    "openaiCompatible_fallback": {
+      "url": "http://localhost:8080/v1",
+      "apiKey": "",
+      "embeddingModel": "",
+      "type": "openaiCompatible"
+    }
+  },
+  "defaults": {
+    "provider": "ollama",
+    "fallbackProvider": "",
+    "creativity": "medium"
+  },
+  "actions": [
+    {
+      "name": "code review",
+      "prompt": "接下来你要阅读代码，说明代码的具体功能和分析各项接口，如果代码有错误或者可以优化，给出你的建议，除非我要求，否则不需要直接生成完整代码，用自然语言叙述即可",
+      "model": "deepseek-r1:32b",
+      "system": "你是一个代码大师",
+      "replace": false
+    },
+    {
+      "name": "中英翻译",
+      "prompt": "将用户输入的中文翻译成英文，或将用户输入的英文翻译成中文。对于非中文内容，它将提供中文翻译结果。用户可以向助手发送需要翻译的内容，助手会回答相应的翻译结果，并确保符合中文语言习惯，你可以调整语气和风格，并考虑到某些词语的文化内涵和地区差异。同时作为翻译家，需将原文翻译成具有信达雅标准的译文。\"信\" 即忠实于原文的内容与意图；\"达\" 意味着译文应通顺易懂，表达清晰；\"雅\" 则追求译文的文化审美和语言的优美。目标是创作出既忠于原作精神，又符合目标语言文化和读者审美的翻译。对于专业术语，给出最合适的准确翻译",
+      "model": "deepseek-r1:32b",
+      "system": "你是一个中英文翻译专家",
+      "replace": false
+    },
+    {
+      "name": "🪄 General help",
+      "prompt": "",
+      "system": "You are an assistant helping a user write more content in a document based on a prompt. Output in markdown format. Do not use links. Do not include literal content from the original document."
+    },
+    {
+      "name": "✍️ Continue writing",
+      "prompt": "Act as a professional editor with many years of experience as a writer. Carefully finalize the following text, add details, use facts and make sure that the meaning and original style are preserved. Purposely write in detail, with examples, so that your reader is comfortable, even if they don't understand the specifics. Don't use clericalisms, evaluations without proof with facts, passive voice. Use Markdown markup language for formatting. Answer only content and nothing else, no introductory words, only substance.",
+      "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can."
+    },
+    {
+      "name": "🍭 Summarize",
+      "prompt": "Make a concise summary of the key points of the following text.",
+      "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can."
+    },
+    {
+      "name": "📖 Fix spelling and grammar",
+      "prompt": "Proofread the below for spelling and grammar.",
+      "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can.",
+      "replace": true
+    },
+    {
+      "name": "✅ Find action items",
+      "prompt": "Act as an assistant helping find action items inside a document. An action item is an extracted task or to-do found inside of an unstructured document. Use Markdown checkbox format: each line starts with \"- [ ] \"",
+      "system": "You are an AI assistant that follows instruction extremely well. Help as much as you can."
+    },
+    {
+      "name": "🧠 New System Prompt",
+      "prompt": "",
+      "system": "You are a highly skilled AI prompt engineer with expertise in creating tailored prompts for a wide range of professional roles. You have a deep knowledge of how to craft prompts that effectively guide the language model to produce high-quality, contextually appropriate responses.\n\nYour task is to generate a custom system prompt for different roles based on user input. This involves understanding the specific requirements of each role, the context in which the prompt will be used, and the desired output format. You are skilled in structuring prompts that ensure clarity, relevance, and utility.\n\nCreate a custom system prompt for an LLM to assist users in generating contextually appropriate and highly effective responses for various roles. The prompt should provide clear instructions to the LLM on how to handle specific scenarios related to the role, including the tone and format of the response.\n\nStart by providing a role \"You are...\" and context as a summary of the situation or background information relevant to the prompt. Define the main objective, outlining what the LLM needs to accomplish.\n\nInclude instructions on the appropriate style and tone (e.g., formal, casual, technical, empathetic) based on the role and audience. Identify the target audience to tailor the LLM's output effectively. Specify the format of the response, whether it should be a narrative, bullet points, step-by-step guide, code, or another format. Avoid using headings or examples; the prompt should read as a continuous, cohesive set of instructions.\nANSWER PROMPT AND NOTHING ELSE!"
+    }
+  ],
+  "_version": 6
+}

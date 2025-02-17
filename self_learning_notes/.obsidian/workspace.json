@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "409adb42aa1ed5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7bf3779eaa5cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90f52e60890d0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs1b/迭代器的一个例子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "迭代器的一个例子"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7788207cbc96a20b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf99245503a2df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e29e6dc4b6ec8065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d7e2af2474ec2d36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6733ea2f0d255aa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "46e5562faba12b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ebce0809da344d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0126a2410e6c4065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "7785ba48d13afcec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b9e4d825557750ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "210f1ddb3beb08cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "语法学习/git语法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "git语法 的大纲"
+            }
+          },
+          {
+            "id": "21444c1f18393c30",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "f90f52e60890d0c2",
+  "lastOpenFiles": [
+    "cs1b/views 视图(豆包是这么翻译的）.md",
+    "cs1b/迭代器.md",
+    "cs1b/复杂性管理——封装.md",
+    "语法学习/MarkDown语法指南.md",
+    "语法学习/Matlab语法指南.md",
+    "迭代器的一个例子.md",
+    "cs1b/强制类型转换必须要求所有对象在同一条继承链上，且动态类型与待转换为的静态类型相同.md",
+    "Iterator——test/README.md",
+    "Iterator——test/bin/primeNumFilter.class",
+    "Iterator——test/bin/Predicate.class",
+    "Iterator——test/src/primeNumFilter.java",
+    "Iterator——test/src/Predicate.java",
+    "Iterator——test/src/FilterListTest.java",
+    "Iterator——test/src/FilterList.java",
+    "Iterator——test/bin/FilterListTest.class",
+    "Iterator——test/bin/FilterList.class",
+    "Iterator——test/bin/FilterList$FilterListIterator.class",
+    "Iterator——test/src",
+    "cs1b/嵌套类的泛型参数如果相同，不需要重新声明.md",
+    "cs1b/静态类型和动态类型在方法继承中.md",
+    "cs1b/JAVA 整数内存池.md",
+    "cs1b/一个类中的静态属性被所有实例共享，通过其中之一更改，所有的都会改变.md",
+    "语法学习/git语法.md",
+    "普物/笔记.md",
+    "关于锟斤拷的一切/dp初版大纲.md",
+    "cs1b/构造函数的继承规则.md",
+    "cs1b/继承.md",
+    "Lab3.随机测试.md"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "0d015f6c116eff10",
+    "type": "split",
+    "children": [
+      {
+        "id": "88dc73ecb9616913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77317450b09b55fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/命题表达式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命题表达式"
+            }
+          },
+          {
+            "id": "414785616c5a18b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/常用命题公式逻辑等价.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用命题公式逻辑等价"
+            }
+          },
+          {
+            "id": "8b1dcbe3d9fe4726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "谓词逻辑初步/谓词 predicate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "谓词 predicate"
+            }
+          },
+          {
+            "id": "0c7f6e713efbb4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "谓词逻辑初步/量词 Quantifier.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "量词 Quantifier"
+            }
+          },
+          {
+            "id": "fe67cf247c56ebf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/命题逻辑公式范式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命题逻辑公式范式"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "121138ec73017b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e0de93412c2816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a51a61f59b567f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "19875d0dd7afa55d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a4bdf891e762fac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "92b94967e1adfea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "93534b1128007ca2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df24acb5a203d3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/命题逻辑公式范式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "命题逻辑公式范式 的反向链接列表"
+            }
+          },
+          {
+            "id": "d5f885402f5f1905",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/命题逻辑公式范式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "命题逻辑公式范式 的出链列表"
+            }
+          },
+          {
+            "id": "5e1f6c6a04b7a307",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "98488508672f2e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "命题逻辑/逻辑与证明/命题逻辑公式范式.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "命题逻辑公式范式 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fe67cf247c56ebf0",
+  "lastOpenFiles": [
+    "谓词逻辑初步/推理.md",
+    "命题逻辑/逻辑与证明/命题逻辑公式范式.md",
+    "picture/屏幕截图 2025-02-21 154000.png",
+    "picture/屏幕截图 2025-02-25 114537.png",
+    "picture/屏幕截图 2025-02-25 114343.png",
+    "picture/屏幕截图 2025-02-25 114329.png",
+    "谓词逻辑初步/谓词 predicate.md",
+    "picture/屏幕截图 2025-02-25 114537.png",
+    "picture/屏幕截图 2025-02-25 114343.png",
+    "picture/屏幕截图 2025-02-25 114329.png",
+    "命题逻辑/逻辑与证明/常用命题公式逻辑等价.md",
+    "命题逻辑/逻辑与证明/命题表达式.md",
+    "命题逻辑/逻辑与证明/命题公式推理.md",
+    "命题逻辑/逻辑与证明/命题逻辑的正确性和完备性.md",
+    "命题逻辑/逻辑与证明/自然演绎规则和论证.md",
+    "谓词逻辑初步/量词 Quantifier.md",
+    "谓词逻辑初步/命题逻辑和谓词逻辑结合.md",
+    "未命名",
+    "谓词逻辑初步",
+    "picture",
+    "命题逻辑/逻辑与证明",
+    "欢迎.md",
+    "命题逻辑"
+  ]
+}

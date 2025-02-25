@@ -1,0 +1,3 @@
+﻿  MonotonicStack.cpp
+C:\Users\kunji\Desktop\notes\cpp\senior cpp code\test\MonotonicStack.cpp(4,18): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  test.vcxproj -> C:\Users\kunji\Desktop\notes\cpp\senior cpp code\test\x64\Debug\test.exe

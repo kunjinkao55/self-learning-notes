@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\point_list\\pointlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:arr_2\\point_list\\pointlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\th28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:arr_2\\th28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\th28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:th28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 166,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointlist.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\point_list\\pointlist.cpp",
+              "RelativeDocumentMoniker": "arr_2\\point_list\\pointlist.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\point_list\\pointlist.cpp",
+              "RelativeToolTip": "arr_2\\point_list\\pointlist.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T02:14:51.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "th28.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\th28.cpp",
+              "RelativeDocumentMoniker": "arr_2\\th28.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\arr_2\\th28.cpp",
+              "RelativeToolTip": "arr_2\\th28.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-17T02:12:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "\u6E90.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\\u6E90.cpp",
+              "RelativeToolTip": "\u6E90.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T08:55:41.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "th28.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\th28.cpp",
+              "RelativeDocumentMoniker": "th28.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\th28.cpp",
+              "RelativeToolTip": "th28.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T02:09:15.988Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 166,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

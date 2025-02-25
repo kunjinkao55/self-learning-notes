@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u7ED3\u6784\u4F53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u7ED3\u6784\u4F53.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u52A8\u6001\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u52A8\u6001\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:union.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\strstr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:strstr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u679A\u4E3E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u679A\u4E3E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u63D2\u5165\u8F6E\u5B50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u63D2\u5165\u8F6E\u5B50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5927\u52A0\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u5927\u52A0\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5C0F\u5175\u70B8\u96F7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABF30C9F-ABF3-400F-A5FF-4195CFD688B2}|char.vcxproj|solutionrelative:\u5C0F\u5175\u70B8\u96F7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 166,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:283709:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "union.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\union.cpp",
+              "RelativeDocumentMoniker": "union.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\union.cpp",
+              "RelativeToolTip": "union.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T03:47:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7ED3\u6784\u4F53.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u7ED3\u6784\u4F53.cpp",
+              "RelativeDocumentMoniker": "\u7ED3\u6784\u4F53.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u7ED3\u6784\u4F53.cpp",
+              "RelativeToolTip": "\u7ED3\u6784\u4F53.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T02:46:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "strstr.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\strstr.cpp",
+              "RelativeDocumentMoniker": "strstr.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\strstr.cpp",
+              "RelativeToolTip": "strstr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T02:46:37.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u679A\u4E3E.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u679A\u4E3E.cpp",
+              "RelativeDocumentMoniker": "\u679A\u4E3E.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u679A\u4E3E.cpp",
+              "RelativeToolTip": "\u679A\u4E3E.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T02:18:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u52A8\u6001\u6570\u7EC4.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u52A8\u6001\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "\u52A8\u6001\u6570\u7EC4.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u52A8\u6001\u6570\u7EC4.cpp",
+              "RelativeToolTip": "\u52A8\u6001\u6570\u7EC4.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T01:01:09.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u5C0F\u5175\u70B8\u96F7.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5C0F\u5175\u70B8\u96F7.cpp",
+              "RelativeDocumentMoniker": "\u5C0F\u5175\u70B8\u96F7.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5C0F\u5175\u70B8\u96F7.cpp",
+              "RelativeToolTip": "\u5C0F\u5175\u70B8\u96F7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T15:30:26.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u5927\u52A0\u6CD5.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5927\u52A0\u6CD5.cpp",
+              "RelativeDocumentMoniker": "\u5927\u52A0\u6CD5.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u5927\u52A0\u6CD5.cpp",
+              "RelativeToolTip": "\u5927\u52A0\u6CD5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T18:31:34.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u63D2\u5165\u8F6E\u5B50.cpp",
+              "DocumentMoniker": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u63D2\u5165\u8F6E\u5B50.cpp",
+              "RelativeDocumentMoniker": "\u63D2\u5165\u8F6E\u5B50.cpp",
+              "ToolTip": "C:\\Users\\kunji\\Desktop\\notes\\cpp\\cpp_notes\\char\\\u63D2\u5165\u8F6E\u5B50.cpp",
+              "RelativeToolTip": "\u63D2\u5165\u8F6E\u5B50.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T16:13:36.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,107 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a933cdeca7ed1a",
+        "id": "6c349225d81a541f",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ed8a954e48964e",
+            "id": "44b293c3338c8641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/集合论/集合及其运算.md",
+                "file": "离散数学/代数系统与群论导引/代数格.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集合及其运算"
+              "title": "代数格"
             }
           },
           {
-            "id": "db3a7028f437ebc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/关系与函数/intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "intro"
-            }
-          },
-          {
-            "id": "bfab0115e0fa980f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/集合论/集合及其运算.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "集合及其运算"
-            }
-          },
-          {
-            "id": "3b66c508949e7ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/数论/数论初步.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数论初步"
-            }
-          },
-          {
-            "id": "1dd705074b51b5fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/计数/容斥原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "容斥原理"
-            }
-          },
-          {
-            "id": "00093d2c393df9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/计数/鸽笼原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "鸽笼原理"
-            }
-          },
-          {
-            "id": "b3d8d200e232f7c1",
+            "id": "96b025fbac2d15d8",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "离散数学/picture/Pasted image 20250401080121.png"
+                "file": "离散数学/picture/Pasted image 20250429112308.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250401080121"
+              "title": "Pasted image 20250429112308"
+            }
+          },
+          {
+            "id": "a3a11e2a834185fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5·布尔代数（有补分配格）"
+            }
+          },
+          {
+            "id": "428846c463e96f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5·布尔代数（有补分配格）"
+            }
+          },
+          {
+            "id": "e1b4e682e58cdcf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5·布尔代数（有补分配格）"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,6 +120,20 @@
             }
           },
           {
+            "id": "3b66c508949e7ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/离散概率/概率化方法讲解(不考.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "概率化方法讲解(不考"
+            }
+          },
+          {
             "id": "6733ea2f0d255aa1",
             "type": "leaf",
             "state": {
@@ -177,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "5·布尔代数（有补分配格） 的反向链接列表"
             }
           },
           {
@@ -221,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语法学习/git语法.md",
+                "file": "离散数学/计数/排列组合.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git语法 的大纲"
+              "title": "排列组合 的大纲"
             }
           },
           {
@@ -255,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,55 +254,60 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "00093d2c393df9e6",
+  "active": "e1b4e682e58cdcf5",
   "lastOpenFiles": [
-    "离散数学/离散概率/随机变量.md",
-    "离散数学/离散概率/2.贝叶斯.md",
-    "离散数学/离散概率/1.概率论.md",
-    "离散数学/计数/排列组合.md",
-    "离散数学/picture/Pasted image 20250401081904.png",
-    "离散数学/picture/Pasted image 20250401081619.png",
-    "离散数学/数论/数论初步.md",
-    "离散数学/picture/Pasted image 20250401080713.png",
-    "离散数学/picture/Pasted image 20250401080121.png",
-    "离散数学/picture/屏幕截图 2025-02-21 154000.png",
-    "离散数学/picture/Pasted image 20250325101734.png",
-    "离散数学/picture/屏幕截图 2025-02-25 114537.png",
-    "离散数学/picture/屏幕截图 2025-02-25 114343.png",
-    "离散数学/picture/屏幕截图 2025-02-25 114329.png",
-    "离散数学/集合论/康托定理 Bernstein定理.md",
-    "离散数学/关系与函数/函数/函数.md",
-    "离散数学/关系与函数/intro.md",
-    "离散数学/归纳与递归/归纳.md",
-    "离散数学/归纳与递归/递归.md",
-    "离散数学/集合论/集合及其运算.md",
-    "离散数学/集合论/集合的基数.md",
-    "离散数学/计数/容斥原理.md",
-    "离散数学/计数/鸽笼原理.md",
-    "离散数学/离散概率",
+    "离散数学/代数系统与群论导引/布尔代数总结.md",
+    "科光-计算理论/lec2 在线决策与计算.md",
+    "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+    "Clippings/布尔代数学习笔记.md",
+    "布尔代数补充.md",
+    "离散数学/图论/1·基本概念.md",
+    "科光-计算理论/lec1..md",
+    "离散数学/代数系统与群论导引/2·循环群和群同构.md",
+    "离散数学/代数系统与群论导引/1·群.md",
+    "离散数学/代数系统与群论导引/1.1·群论证明费马小定理.md",
+    "离散数学/代数系统与群论导引/4·代数格.md",
+    "离散数学/代数系统与群论导引/3·代数系统.md",
+    "离散数学/图论",
+    "离散数学/picture/Pasted image 20250506114556.png",
+    "离散数学/picture/Pasted image 20250506114506.png",
+    "Clippings/B_n 作为 n 个 B 的乘积定义 - Kimi.md",
+    "离散数学/picture/Pasted image 20250506111235.png",
+    "Pasted image 20250506105034.png",
+    "离散数学/picture/Pasted image 20250506105025.png",
+    "离散数学/picture/Pasted image 20250506104404.png",
+    "语法学习/latex.md",
+    "离散数学/关系与函数/关系/等价关系与偏序关系.md",
+    "chatgpt.md",
+    "离散数学/picture/Pasted image 20250429122114.png",
+    "离散数学/picture/Pasted image 20250429121827.png",
+    "离散数学/picture/Pasted image 20250429112429.png",
+    "离散数学/picture/Pasted image 20250429112308.png",
+    "Clippings/非循环群的结构与性质.md",
+    "离散数学/关系与函数/关系/性质.md",
     "数电/同步时序逻辑电路设计.md",
-    "数电",
-    "普物/欢迎.md",
-    "离散数学/计数",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/命题表达式.md",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/命题公式推理.md",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/常用命题公式逻辑等价.md",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/命题逻辑的正确性和完备性.md",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/命题逻辑公式范式.md",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/自然演绎规则和论证.md",
-    "离散数学/逻辑基础/谓词逻辑初步/推理.md",
-    "离散数学/逻辑基础/谓词逻辑初步/谓词 predicate.md",
-    "离散数学/归纳与递归",
-    "离散数学/数论",
-    "离散数学/关系与函数/函数",
-    "离散数学/关系与函数",
-    "离散数学/逻辑基础/命题逻辑/逻辑与证明/证明.md",
-    "离散数学/逻辑基础/谓词逻辑初步/命题逻辑和谓词逻辑结合.md",
-    "离散数学/逻辑基础",
+    "离散数学/数论/数论初步.md",
+    "cs61b/cs61b.md",
+    "java/Java全栈学习路径.md",
+    "cs61b/Java语法特性/特殊接口/迭代器.md",
+    "cs61b/数据结构/数据结构 二叉搜索树.md",
+    "cs61b/Java语法特性/特殊接口/特殊接口.md",
+    "cs61b/Java语法特性/特殊接口/views 视图(豆包是这么翻译的）.md",
+    "cs61b/Java语法特性/特殊接口",
+    "cs61b/Java语法特性/继承",
+    "cs61b/Java语法特性",
+    "cs61b/数据结构",
+    "未命名.canvas",
+    "java",
+    "Latex",
     "未命名",
-    "数字逻辑与计算机组成/第二章 数字逻辑基础"
+    "离散数学/代数系统与群论导引",
+    "离散数学/数论.zip",
+    "未命名 1.canvas"
   ]
 }

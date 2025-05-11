@@ -1,4 +1,8 @@
 [
   "obsidian-git",
-  "copilot"
+  "copilot",
+  "code-emitter",
+  "obsidian-tasks-plugin",
+  "obsidian-mind-map",
+  "execute-code"
 ]

@@ -4,5 +4,7 @@
   "code-emitter",
   "obsidian-tasks-plugin",
   "obsidian-mind-map",
-  "execute-code"
+  "execute-code",
+  "obsidian-excalidraw-plugin",
+  "image-converter"
 ]

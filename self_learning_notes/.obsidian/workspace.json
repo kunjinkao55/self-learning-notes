@@ -39,26 +39,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "file": "离散数学/图论/2.图的连通性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5·布尔代数（有补分配格）"
+              "title": "2.图的连通性"
             }
           },
           {
-            "id": "428846c463e96f23",
+            "id": "0d800c20a832ceaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "file": "离散数学/代数系统与群论导引/2·循环群和群同构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5·布尔代数（有补分配格）"
+              "title": "2·循环群和群同构"
+            }
+          },
+          {
+            "id": "a95614312628b327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/图论/4最短通路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4最短通路"
+            }
+          },
+          {
+            "id": "36ce31170d135c5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/图论/5 树的基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 树的基本概念"
+            }
+          },
+          {
+            "id": "2a9eaf7d4341eb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/图论/6 树的应用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6 树的应用"
             }
           },
           {
@@ -67,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+                "file": "离散数学/图论/1·基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5·布尔代数（有补分配格）"
+              "title": "1·基本概念"
             }
           }
         ],
@@ -238,11 +280,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,48 +299,51 @@
       "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false,
       "workspaces:管理工作区布局": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e1b4e682e58cdcf5",
+  "active": "a95614312628b327",
   "lastOpenFiles": [
-    "离散数学/代数系统与群论导引/布尔代数总结.md",
-    "科光-计算理论/lec2 在线决策与计算.md",
-    "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
-    "Clippings/布尔代数学习笔记.md",
-    "布尔代数补充.md",
-    "离散数学/图论/1·基本概念.md",
-    "科光-计算理论/lec1..md",
-    "离散数学/代数系统与群论导引/2·循环群和群同构.md",
-    "离散数学/代数系统与群论导引/1·群.md",
-    "离散数学/代数系统与群论导引/1.1·群论证明费马小定理.md",
-    "离散数学/代数系统与群论导引/4·代数格.md",
-    "离散数学/代数系统与群论导引/3·代数系统.md",
-    "离散数学/图论",
-    "离散数学/picture/Pasted image 20250506114556.png",
-    "离散数学/picture/Pasted image 20250506114506.png",
-    "Clippings/B_n 作为 n 个 B 的乘积定义 - Kimi.md",
-    "离散数学/picture/Pasted image 20250506111235.png",
-    "Pasted image 20250506105034.png",
-    "离散数学/picture/Pasted image 20250506105025.png",
-    "离散数学/picture/Pasted image 20250506104404.png",
-    "语法学习/latex.md",
+    "离散数学/图论/6 树的应用.md",
+    "离散数学/图论/4最短通路.md",
+    "离散数学/图论/5 树的基本概念.md",
+    "离散数学/图论/3 欧拉图和哈密顿图.md",
     "离散数学/关系与函数/关系/等价关系与偏序关系.md",
-    "chatgpt.md",
-    "离散数学/picture/Pasted image 20250429122114.png",
-    "离散数学/picture/Pasted image 20250429121827.png",
-    "离散数学/picture/Pasted image 20250429112429.png",
-    "离散数学/picture/Pasted image 20250429112308.png",
-    "Clippings/非循环群的结构与性质.md",
+    "离散数学/代数系统与群论导引/4·代数格.md",
+    "离散数学/代数系统与群论导引/1·群.md",
+    "离散数学/代数系统与群论导引/布尔代数总结.md",
     "离散数学/关系与函数/关系/性质.md",
-    "数电/同步时序逻辑电路设计.md",
-    "离散数学/数论/数论初步.md",
-    "cs61b/cs61b.md",
-    "java/Java全栈学习路径.md",
-    "cs61b/Java语法特性/特殊接口/迭代器.md",
-    "cs61b/数据结构/数据结构 二叉搜索树.md",
-    "cs61b/Java语法特性/特殊接口/特殊接口.md",
-    "cs61b/Java语法特性/特殊接口/views 视图(豆包是这么翻译的）.md",
+    "离散数学/关系与函数/关系/运算.md",
+    "离散数学/代数系统与群论导引/5·布尔代数（有补分配格）.md",
+    "离散数学/离散概率/随机变量.md",
+    "离散数学/离散概率/概率化方法讲解(不考.md",
+    "离散数学/离散概率/2.贝叶斯.md",
+    "离散数学/离散概率/1.概率论.md",
+    "离散数学/代数系统与群论导引/3·代数系统.md",
+    "离散数学/代数系统与群论导引/1.1·群论证明费马小定理.md",
+    "普物/DeepSeek.md",
+    "离散数学/计数/容斥原理.md",
+    "离散数学/计数/鸽笼原理.md",
+    "离散数学/逻辑基础/命题逻辑/逻辑与证明/常用命题公式逻辑等价.md",
+    "离散数学/代数系统与群论导引/2·循环群和群同构.md",
+    "科光-计算理论/青创课堂.md",
+    "离散数学/关系与函数/函数/函数.md",
+    "离散数学/集合论/康托定理 Bernstein定理.md",
+    "离散数学/集合论/集合及其运算.md",
+    "物理",
+    "image.png",
+    "离散数学/picture/image 3.png",
+    "离散数学/picture/image-2.png",
+    "离散数学/picture/image-1 1.png",
+    "离散数学/picture/image 2.png",
+    "离散数学/picture/057f016bc338ceab3723a4fc98fe9583.jpg",
+    "离散数学/picture/image-1.png",
+    "离散数学/picture/image 1.png",
+    "离散数学/picture/image.png",
+    "Excalidraw",
+    "离散数学/picture/Pasted image 20250513112132.png",
+    "离散数学/图论",
     "cs61b/Java语法特性/特殊接口",
     "cs61b/Java语法特性/继承",
     "cs61b/Java语法特性",
@@ -306,8 +352,6 @@
     "java",
     "Latex",
     "未命名",
-    "离散数学/代数系统与群论导引",
-    "离散数学/数论.zip",
     "未命名 1.canvas"
   ]
 }

@@ -53,10 +53,14 @@
             "id": "3dbf71529dd6d2f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "CS106L/Lec 13 移动语义.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lec 13 移动语义"
             }
           }
         ],
